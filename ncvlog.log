@@ -1,0 +1,19 @@
+ncvlog: *W,DLNOHV: Unable to find an 'hdl.var' file to load in.
+TOOL:	ncvlog(64)	15.20-s086: Started on Sep 07, 2024 at 13:52:04 PDT
+ncvlog
+    -work __nclib
+    -view module
+    -logfile ncvlog.log
+    -cdslib /tmp/ihdl_cdslibb8008_3638008
+    -messages
+    -nostdout
+    -nocopyright
+    -ESCAPEDNAME
+    /home/aa/users/cs199-apt/cadence/digital_ldo_integration/DigitalLDOLogic.mapped.v
+
+file: /home/aa/users/cs199-apt/cadence/digital_ldo_integration/DigitalLDOLogic.mapped.v
+	module __nclib.DigitalLDOLogic:module
+		errors: 0, warnings: 0
+	Total errors/warnings found outside modules and primitives:
+		errors: 0, warnings: 1
+TOOL:	ncvlog(64)	15.20-s086: Exiting on Sep 07, 2024 at 13:52:04 PDT  (total: 00:00:00)

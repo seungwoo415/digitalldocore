@@ -1,0 +1,132 @@
+@(#)$CDS: ihdl version 6.1.8-64b 01/30/2024 20:01 (cpgbld02) $  Sat Sep  7 13:52:04 2024
+
+WARNING (VERILOGIN-19): The library, sample, is not specified in the cds.lib file. Add the library in the
+cds.lib file and run the command again.
+INFO (VERILOGIN-589): Using ncvlog binary for compilation.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__dfxtp_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__a221o_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__dfxtp_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__dfxtp_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__dfxtp_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__dfxtp_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__dfxtp_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__dfxtp_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__dfxtp_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__buf_8, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__a221o_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__a221o_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__a221o_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__a221o_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__a221o_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__a221o_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__a221o_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__dfxtp_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__dfxtp_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__a21o_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__or3_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__buf_8, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__buf_8, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__buf_8, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__buf_8, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__buf_8, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__buf_8, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__buf_8, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__buf_8, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__buf_8, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+WARNING (VERILOGIN-22): Module sky130_fd_sc_hd__inv_1, instantiated in the top module DigitalLDOLogic, is not defined. Therefore the top
+module DigitalLDOLogic will be imported as functional.
+INFO (VERILOGIN-357): Checked in symbol DigitalLDOLogic.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g180. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g172. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g174. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g177. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g176. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g173. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g171. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g179. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g178. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g175. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g170__2802. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g169__1617. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance \pass_reg[0] . Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance \pass_reg[9] . Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g164__3680. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g168__6783. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g161__5526. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g167__8428. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g165__4319. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g166__6260. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g160__5107. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g159. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance \pass_reg[7] . Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance \pass_reg[2] . Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance \pass_reg[1] . Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance \pass_reg[6] . Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance \pass_reg[5] . Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance \pass_reg[4] . Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance \pass_reg[3] . Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance g151__2398. Therefore the functional
+view will not have this instance.
+WARNING (VERILOGIN-72): Could not find the symbol master for the instance \pass_reg[8] . Therefore the functional
+view will not have this instance.
+INFO (VERILOGIN-345): Checked in functional view DigitalLDOLogic. Symbol for lower level instance not found
+INFO (VERILOGIN-206): End of Logfile.
